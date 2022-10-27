@@ -11,6 +11,10 @@ In the project directory, you can run:
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
+Sneak Peek of the app:
+![image](https://user-images.githubusercontent.com/68441783/198407010-6e326684-29de-4699-8758-00945e1d87df.png)
+
+
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
